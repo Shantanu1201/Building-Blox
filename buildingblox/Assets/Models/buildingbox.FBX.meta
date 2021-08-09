@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 304d577da4e632b4eb16c87fa8287275
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AI29_03_lamp_06_011
+    100002: AI29_03_lamp_06_012
+    100004: AI29_03_lamp_06_013
+    100006: AI29_03_lamp_06_014
+    100008: AI29_03_lamp_06_015
+    100010: AI29_03_lamp_06_016
+    100012: AI29_03_lamp_06_018
+    100014: AI29_03_lamp_06_07
+    100016: AI29_03_lamp_06_08
+    100018: AI29_03_table_001
+    100020: Arch137_002_obj_066
+    100022: Arch137_002_obj_101
+    100024: Arch137_002_obj_107
+    100026: Arch137_002_obj_109
+    100028: Arch137_002_obj_110
+    100030: Arch137_007_obj_135
+    100032: bolcony
+    100034: bolony
+    100036: Box060
+    100038: Box062
+    100040: Box063
+    100042: //RootNode
+    100044: cealing
+    100046: cealing light
+    100048: cealing001
+    100050: cealing_1
+    100052: cealing__2
+    100054: cealinglight_2
+    100056: chemney
+    100058: dining
+    100060: dinning leg
+    100062: door
+    100064: door frame
+    100066: door frame001
+    100068: door frame002
+    100070: door frame003
+    100072: door_003
+    100074: door_1
+    100076: door__1
+    100078: door_handle001
+    100080: door_handle002
+    100082: floor
+    100084: floor001
+    100086: Handle001
+    100088: Handle008
+    100090: Handle018
+    100092: kitchen_base
+    100094: Kitchen_C001
+    100096: Kitchen_C013
+    100098: kitchen_hob
+    100100: kitchen_top
+    100102: kitchenwall
+    100104: kitcn
+    100106: kitcn002
+    100108: Kithenside
+    100110: Line011
+    100112: Railing001
+    100114: Railing002
+    100116: Rectangle002
+    100118: Rectangle045
+    100120: Rectangle046
+    100122: Rectangle047
+    100124: Rectangle048
+    100126: S_unit
+    100128: S_unit1
+    100130: Text001
+    100132: TV-Box002
+    100134: wall
+    100136: wallpaper
+    100138: wallpaper_1
+    100140: winframe003
+    100142: winframe005
+    100144: winframe008
+    100146: winframe1
+    100148: winframe_002
+    100150: winframe_003
+    100152: winframe_1
+    100154: winglass004
+    100156: winglass007
+    100158: winglass009
+    100160: winglass2
+    100162: woarrob_2
+    400000: AI29_03_lamp_06_011
+    400002: AI29_03_lamp_06_012
+    400004: AI29_03_lamp_06_013
+    400006: AI29_03_lamp_06_014
+    400008: AI29_03_lamp_06_015
+    400010: AI29_03_lamp_06_016
+    400012: AI29_03_lamp_06_018
+    400014: AI29_03_lamp_06_07
+    400016: AI29_03_lamp_06_08
+    400018: AI29_03_table_001
+    400020: Arch137_002_obj_066
+    400022: Arch137_002_obj_101
+    400024: Arch137_002_obj_107
+    400026: Arch137_002_obj_109
+    400028: Arch137_002_obj_110
+    400030: Arch137_007_obj_135
+    400032: bolcony
+    400034: bolony
+    400036: Box060
+    400038: Box062
+    400040: Box063
+    400042: //RootNode
+    400044: cealing
+    400046: cealing light
+    400048: cealing001
+    400050: cealing_1
+    400052: cealing__2
+    400054: cealinglight_2
+    400056: chemney
+    400058: dining
+    400060: dinning leg
+    400062: door
+    400064: door frame
+    400066: door frame001
+    400068: door frame002
+    400070: door frame003
+    400072: door_003
+    400074: door_1
+    400076: door__1
+    400078: door_handle001
+    400080: door_handle002
+    400082: floor
+    400084: floor001
+    400086: Handle001
+    400088: Handle008
+    400090: Handle018
+    400092: kitchen_base
+    400094: Kitchen_C001
+    400096: Kitchen_C013
+    400098: kitchen_hob
+    400100: kitchen_top
+    400102: kitchenwall
+    400104: kitcn
+    400106: kitcn002
+    400108: Kithenside
+    400110: Line011
+    400112: Railing001
+    400114: Railing002
+    400116: Rectangle002
+    400118: Rectangle045
+    400120: Rectangle046
+    400122: Rectangle047
+    400124: Rectangle048
+    400126: S_unit
+    400128: S_unit1
+    400130: Text001
+    400132: TV-Box002
+    400134: wall
+    400136: wallpaper
+    400138: wallpaper_1
+    400140: winframe003
+    400142: winframe005
+    400144: winframe008
+    400146: winframe1
+    400148: winframe_002
+    400150: winframe_003
+    400152: winframe_1
+    400154: winglass004
+    400156: winglass007
+    400158: winglass009
+    400160: winglass2
+    400162: woarrob_2
+    2100000: 'Material #24'
+    2100002: 'Material #22'
+    2100004: No Name
+    2300000: AI29_03_lamp_06_011
+    2300002: AI29_03_lamp_06_012
+    2300004: AI29_03_lamp_06_013
+    2300006: AI29_03_lamp_06_014
+    2300008: AI29_03_lamp_06_015
+    2300010: AI29_03_lamp_06_016
+    2300012: AI29_03_lamp_06_018
+    2300014: AI29_03_lamp_06_07
+    2300016: AI29_03_lamp_06_08
+    2300018: AI29_03_table_001
+    2300020: Arch137_002_obj_066
+    2300022: Arch137_002_obj_101
+    2300024: Arch137_002_obj_107
+    2300026: Arch137_002_obj_109
+    2300028: Arch137_002_obj_110
+    2300030: Arch137_007_obj_135
+    2300032: bolcony
+    2300034: bolony
+    2300036: Box060
+    2300038: Box062
+    2300040: Box063
+    2300042: cealing
+    2300044: cealing light
+    2300046: cealing001
+    2300048: cealing_1
+    2300050: cealing__2
+    2300052: cealinglight_2
+    2300054: chemney
+    2300056: dining
+    2300058: dinning leg
+    2300060: door
+    2300062: door frame
+    2300064: door frame001
+    2300066: door frame002
+    2300068: door frame003
+    2300070: door_003
+    2300072: door_1
+    2300074: door__1
+    2300076: door_handle001
+    2300078: door_handle002
+    2300080: floor
+    2300082: floor001
+    2300084: Handle001
+    2300086: Handle008
+    2300088: Handle018
+    2300090: kitchen_base
+    2300092: Kitchen_C001
+    2300094: Kitchen_C013
+    2300096: kitchen_hob
+    2300098: kitchen_top
+    2300100: kitchenwall
+    2300102: kitcn
+    2300104: kitcn002
+    2300106: Kithenside
+    2300108: Line011
+    2300110: Railing001
+    2300112: Railing002
+    2300114: Rectangle002
+    2300116: Rectangle045
+    2300118: Rectangle046
+    2300120: Rectangle047
+    2300122: Rectangle048
+    2300124: S_unit
+    2300126: S_unit1
+    2300128: Text001
+    2300130: TV-Box002
+    2300132: wall
+    2300134: wallpaper
+    2300136: wallpaper_1
+    2300138: winframe003
+    2300140: winframe005
+    2300142: winframe008
+    2300144: winframe1
+    2300146: winframe_002
+    2300148: winframe_003
+    2300150: winframe_1
+    2300152: winglass004
+    2300154: winglass007
+    2300156: winglass009
+    2300158: winglass2
+    2300160: woarrob_2
+    3300000: AI29_03_lamp_06_011
+    3300002: AI29_03_lamp_06_012
+    3300004: AI29_03_lamp_06_013
+    3300006: AI29_03_lamp_06_014
+    3300008: AI29_03_lamp_06_015
+    3300010: AI29_03_lamp_06_016
+    3300012: AI29_03_lamp_06_018
+    3300014: AI29_03_lamp_06_07
+    3300016: AI29_03_lamp_06_08
+    3300018: AI29_03_table_001
+    3300020: Arch137_002_obj_066
+    3300022: Arch137_002_obj_101
+    3300024: Arch137_002_obj_107
+    3300026: Arch137_002_obj_109
+    3300028: Arch137_002_obj_110
+    3300030: Arch137_007_obj_135
+    3300032: bolcony
+    3300034: bolony
+    3300036: Box060
+    3300038: Box062
+    3300040: Box063
+    3300042: cealing
+    3300044: cealing light
+    3300046: cealing001
+    3300048: cealing_1
+    3300050: cealing__2
+    3300052: cealinglight_2
+    3300054: chemney
+    3300056: dining
+    3300058: dinning leg
+    3300060: door
+    3300062: door frame
+    3300064: door frame001
+    3300066: door frame002
+    3300068: door frame003
+    3300070: door_003
+    3300072: door_1
+    3300074: door__1
+    3300076: door_handle001
+    3300078: door_handle002
+    3300080: floor
+    3300082: floor001
+    3300084: Handle001
+    3300086: Handle008
+    3300088: Handle018
+    3300090: kitchen_base
+    3300092: Kitchen_C001
+    3300094: Kitchen_C013
+    3300096: kitchen_hob
+    3300098: kitchen_top
+    3300100: kitchenwall
+    3300102: kitcn
+    3300104: kitcn002
+    3300106: Kithenside
+    3300108: Line011
+    3300110: Railing001
+    3300112: Railing002
+    3300114: Rectangle002
+    3300116: Rectangle045
+    3300118: Rectangle046
+    3300120: Rectangle047
+    3300122: Rectangle048
+    3300124: S_unit
+    3300126: S_unit1
+    3300128: Text001
+    3300130: TV-Box002
+    3300132: wall
+    3300134: wallpaper
+    3300136: wallpaper_1
+    3300138: winframe003
+    3300140: winframe005
+    3300142: winframe008
+    3300144: winframe1
+    3300146: winframe_002
+    3300148: winframe_003
+    3300150: winframe_1
+    3300152: winglass004
+    3300154: winglass007
+    3300156: winglass009
+    3300158: winglass2
+    3300160: woarrob_2
+    4300000: winframe_1
+    4300002: winframe1
+    4300004: winglass2
+    4300006: Rectangle002
+    4300008: winframe003
+    4300010: winglass004
+    4300012: wall
+    4300014: kitchenwall
+    4300016: S_unit
+    4300018: S_unit1
+    4300020: Box060
+    4300022: floor
+    4300024: floor001
+    4300026: Box062
+    4300028: cealing__2
+    4300030: cealing_1
+    4300032: bolony
+    4300034: bolcony
+    4300036: Railing001
+    4300038: Railing002
+    4300040: Line011
+    4300042: cealing
+    4300044: cealing001
+    4300046: door frame
+    4300048: door
+    4300050: Handle001
+    4300052: door frame001
+    4300054: TV-Box002
+    4300056: door_1
+    4300058: door__1
+    4300060: door frame002
+    4300062: Arch137_002_obj_066
+    4300064: Arch137_002_obj_101
+    4300066: Arch137_002_obj_107
+    4300068: Arch137_002_obj_109
+    4300070: kitchen_top
+    4300072: kitcn
+    4300074: Handle008
+    4300076: Kitchen_C001
+    4300078: Kitchen_C013
+    4300080: Kithenside
+    4300082: kitchen_hob
+    4300084: Handle018
+    4300086: kitcn002
+    4300088: kitchen_base
+    4300090: Arch137_007_obj_135
+    4300092: wallpaper
+    4300094: wallpaper_1
+    4300096: door_handle001
+    4300098: chemney
+    4300100: Arch137_002_obj_110
+    4300102: winframe005
+    4300104: winglass007
+    4300106: winframe_002
+    4300108: winglass009
+    4300110: winframe008
+    4300112: winframe_003
+    4300114: door_handle002
+    4300116: door frame003
+    4300118: door_003
+    4300120: Rectangle045
+    4300122: Rectangle046
+    4300124: woarrob_2
+    4300126: dinning leg
+    4300128: dining
+    4300130: AI29_03_table_001
+    4300132: AI29_03_lamp_06_07
+    4300134: AI29_03_lamp_06_08
+    4300136: cealinglight_2
+    4300138: cealing light
+    4300140: Rectangle047
+    4300142: Rectangle048
+    4300144: Box063
+    4300146: AI29_03_lamp_06_011
+    4300148: AI29_03_lamp_06_012
+    4300150: AI29_03_lamp_06_013
+    4300152: AI29_03_lamp_06_014
+    4300154: AI29_03_lamp_06_015
+    4300156: AI29_03_lamp_06_016
+    4300158: AI29_03_lamp_06_018
+    4300160: Text001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

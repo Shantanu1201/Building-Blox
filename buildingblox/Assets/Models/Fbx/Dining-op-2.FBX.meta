@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 79ed0e9c02e5ea44899260ed340264c8
+timeCreated: 1531394793
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bowl
+    100002: candle_012
+    100004: candle_jar006
+    100006: champ_glass002
+    100008: Cylinder001
+    100010: Cylinder002
+    100012: //RootNode
+    100014: fork006
+    100016: fork013
+    100018: knife002
+    100020: Object007
+    100022: Object013
+    100024: Object014
+    100026: Object017
+    100028: Object018
+    100030: Object019
+    100032: Object020
+    100034: peach_001
+    100036: peach_004
+    100038: peach_005
+    100040: peach_006
+    100042: peach_007
+    100044: peach_008
+    100046: peach_009
+    100048: peach_010
+    100050: peach_011
+    100052: peach_012
+    100054: peach_013
+    100056: peach_014
+    100058: peach_015
+    100060: peach_017
+    100062: peach_019
+    100064: Plane007
+    100066: plate_005
+    100068: spoon005
+    100070: spoon006
+    100072: table_geo_trestle001
+    100074: wine_glass002
+    400000: bowl
+    400002: candle_012
+    400004: candle_jar006
+    400006: champ_glass002
+    400008: Cylinder001
+    400010: Cylinder002
+    400012: //RootNode
+    400014: fork006
+    400016: fork013
+    400018: knife002
+    400020: Object007
+    400022: Object013
+    400024: Object014
+    400026: Object017
+    400028: Object018
+    400030: Object019
+    400032: Object020
+    400034: peach_001
+    400036: peach_004
+    400038: peach_005
+    400040: peach_006
+    400042: peach_007
+    400044: peach_008
+    400046: peach_009
+    400048: peach_010
+    400050: peach_011
+    400052: peach_012
+    400054: peach_013
+    400056: peach_014
+    400058: peach_015
+    400060: peach_017
+    400062: peach_019
+    400064: Plane007
+    400066: plate_005
+    400068: spoon005
+    400070: spoon006
+    400072: table_geo_trestle001
+    400074: wine_glass002
+    2100000: 16 - Default
+    2100002: 20 - Default
+    2100004: 19 - Default
+    2100006: 07 - Default
+    2100008: peach
+    2100010: plate_2
+    2100012: 08 - Default
+    2100014: 21 - Default
+    2100016: 22 - Default
+    2100018: candle_flame
+    2300000: bowl
+    2300002: candle_012
+    2300004: candle_jar006
+    2300006: champ_glass002
+    2300008: Cylinder001
+    2300010: Cylinder002
+    2300012: fork006
+    2300014: fork013
+    2300016: knife002
+    2300018: Object007
+    2300020: Object013
+    2300022: Object014
+    2300024: Object017
+    2300026: Object018
+    2300028: Object019
+    2300030: Object020
+    2300032: peach_001
+    2300034: peach_004
+    2300036: peach_005
+    2300038: peach_006
+    2300040: peach_007
+    2300042: peach_008
+    2300044: peach_009
+    2300046: peach_010
+    2300048: peach_011
+    2300050: peach_012
+    2300052: peach_013
+    2300054: peach_014
+    2300056: peach_015
+    2300058: peach_017
+    2300060: peach_019
+    2300062: Plane007
+    2300064: plate_005
+    2300066: spoon005
+    2300068: spoon006
+    2300070: table_geo_trestle001
+    2300072: wine_glass002
+    3300000: bowl
+    3300002: candle_012
+    3300004: candle_jar006
+    3300006: champ_glass002
+    3300008: Cylinder001
+    3300010: Cylinder002
+    3300012: fork006
+    3300014: fork013
+    3300016: knife002
+    3300018: Object007
+    3300020: Object013
+    3300022: Object014
+    3300024: Object017
+    3300026: Object018
+    3300028: Object019
+    3300030: Object020
+    3300032: peach_001
+    3300034: peach_004
+    3300036: peach_005
+    3300038: peach_006
+    3300040: peach_007
+    3300042: peach_008
+    3300044: peach_009
+    3300046: peach_010
+    3300048: peach_011
+    3300050: peach_012
+    3300052: peach_013
+    3300054: peach_014
+    3300056: peach_015
+    3300058: peach_017
+    3300060: peach_019
+    3300062: Plane007
+    3300064: plate_005
+    3300066: spoon005
+    3300068: spoon006
+    3300070: table_geo_trestle001
+    3300072: wine_glass002
+    4300000: table_geo_trestle001
+    4300002: champ_glass002
+    4300004: plate_005
+    4300006: fork006
+    4300008: knife002
+    4300010: spoon005
+    4300012: spoon006
+    4300014: wine_glass002
+    4300016: peach_005
+    4300018: peach_001
+    4300020: peach_004
+    4300022: peach_017
+    4300024: peach_006
+    4300026: peach_007
+    4300028: peach_008
+    4300030: peach_009
+    4300032: peach_010
+    4300034: peach_011
+    4300036: peach_012
+    4300038: peach_013
+    4300040: peach_014
+    4300042: peach_015
+    4300044: peach_019
+    4300046: bowl
+    4300048: Cylinder002
+    4300050: Cylinder001
+    4300052: Object007
+    4300054: Object017
+    4300056: Object018
+    4300058: Object019
+    4300060: Object020
+    4300062: candle_jar006
+    4300064: Object013
+    4300066: Object014
+    4300068: candle_012
+    4300070: Plane007
+    4300072: fork013
+    6400000: bowl
+    6400002: candle_012
+    6400004: candle_jar006
+    6400006: champ_glass002
+    6400008: Cylinder001
+    6400010: Cylinder002
+    6400012: fork006
+    6400014: fork013
+    6400016: knife002
+    6400018: Object007
+    6400020: Object013
+    6400022: Object014
+    6400024: Object017
+    6400026: Object018
+    6400028: Object019
+    6400030: Object020
+    6400032: peach_001
+    6400034: peach_004
+    6400036: peach_005
+    6400038: peach_006
+    6400040: peach_007
+    6400042: peach_008
+    6400044: peach_009
+    6400046: peach_010
+    6400048: peach_011
+    6400050: peach_012
+    6400052: peach_013
+    6400054: peach_014
+    6400056: peach_015
+    6400058: peach_017
+    6400060: peach_019
+    6400062: Plane007
+    6400064: plate_005
+    6400066: spoon005
+    6400068: spoon006
+    6400070: table_geo_trestle001
+    6400072: wine_glass002
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: e259a7a34a6812b4baedfe4e2d293f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 657e35442d1fbd34b8959426e062b407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: 4580dcd3ad4bb824fbd0d96b24187077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: cc44b77cd8b68b849bc1e1b14b931c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 4dcba8705fca0144d90627a4d86437e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 13371e945353cac4988bee4c9d283730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 4da7ff8ee87edb043b453b57a662f9fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candle_flame
+    second: {fileID: 2100000, guid: 719fc3d71809cea42aef9876557e5717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: peach
+    second: {fileID: 2100000, guid: b56f9f966cfc1724dafcc50bc6c8e8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plate_2
+    second: {fileID: 2100000, guid: a1963783c19def04799612843036ddc6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+{
+	"recommendationList":[
+				{
+					"roomNo":1,
+					"tvBox":0,
+					"coffeeTable":0,
+					"diningTable":0,
+					"sofa":0
+				},
+				{
+					"roomNo":2,
+					"tvBox":1,
+					"coffeeTable":1,
+					"diningTable":1,
+					"sofa":1
+				},
+				{
+					"roomNo":3,
+					"tvBox":2,
+					"coffeeTable":2,
+					"diningTable":2,
+					"sofa":1
+				}
+			]
+}

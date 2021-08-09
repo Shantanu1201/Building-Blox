@@ -1,0 +1,54 @@
+{
+    "rooms" : 
+    [
+        {
+            "roomId" : 1,
+            "roomType" : "dining",
+            "slot" : 
+            [
+                {
+                    "slotIndex" : 0,
+                    "slotX" : 1,
+                    "slotY" : 1,
+                    "objectId" : 1
+                },
+                {
+                    "slotIndex" : 1,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 1
+                },
+                {
+                    "slotIndex" : 2,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 1
+                },
+                {
+                    "slotIndex" : 3,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 1
+                },
+                {
+                    "slotIndex" : 4,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 2 
+                },
+                {
+                    "slotIndex" : 5,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 1
+                },
+                {
+                    "slotIndex" : 6,
+                    "slotX" : 1,
+                    "slotY" : 2,
+                    "objectId" : 4
+                }
+            ]
+        }
+    ]
+}       
